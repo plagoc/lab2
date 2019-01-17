@@ -17,15 +17,12 @@ p {
      font-variant: small-caps;
 }
 
-/*#project1 {
-     font-variant: small-caps;
-}*/
 
 #project1 {
-     margin-left: 20px; /* mine was 50px */
-     background-color: #deebf7; /* mine was #C4E9FF */
-     padding: 20px; /* mine was 20px */
-     width: 5205px; /* mine was 550px */
+     margin-left: 50px; 
+     background-color: #C4E9FF; 
+     padding: 20px; 
+     width: 550px; 
 }
 
 /* this style exists to make it obvious that you've successfully linked
